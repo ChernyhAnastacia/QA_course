@@ -1,7 +1,18 @@
-Hard skills:
-
-
-Soft skills:
-
-
-
+	 Soft Skills :
+		 Empathy ,
+		 Attention to detail ,
+		 Good communication skills ,
+		 Problem-solving skills
+     
+     
+	 Hard Skills :
+		 Testing Theory ,
+		 SDLC ,
+		 Client-server architecture ,
+		 HTTP ,
+		 JSON structure ,
+		 API with Postman ,
+		 Charles ,
+		 Fiddler ,
+		 Dev Tools ,
+		 SQL 
