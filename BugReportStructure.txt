@@ -1,0 +1,10 @@
+Id
+Title
+Environmnet
+Severity
+Priority
+Preconditions
+Steps ti reproduce
+Expected result
+Actual result
+Attachments
