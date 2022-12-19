@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
 	<name>Anastasia</name>
@@ -8,3 +9,15 @@
 	<children>Gleb</children>
 	<Expected salary>1000</Expected salary>
 </root>
+=======
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<name>Anastasia</name>
+	<surname>Chernyh</surname>
+	<age>36</age>
+	<children>Evelina</children>
+	<children>Ulyana</children>
+	<children>Gleb</children>
+	<Expected salary>1000</Expected salary>
+</root>
+>>>>>>> 6b9f33d60ad18f93151e8e889569cc9cdd08b368
