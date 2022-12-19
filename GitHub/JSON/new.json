@@ -3,9 +3,9 @@
 	"surname": "Chernyh",
 	"age": 36,
 	"children": [
-		"daughter1": "Evelina",
-		"daughter2": "Ulyana",
-		"son": "Gleb"
+	"Evelina",
+	"Ulyana",
+	"Gleb"
 	],
 	"expected salary": 1000
 }
