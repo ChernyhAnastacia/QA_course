@@ -1,0 +1,11 @@
+{
+	"name": "Anastasia",
+	"surname": "Chernyh",
+	"age": 36,
+	"children": [
+		"daughter1": "Evelina",
+		"daughter2": "Ulyana",
+		"son": "Gleb"
+	],
+	"expected salary": 1000
+}
