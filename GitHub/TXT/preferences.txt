@@ -1,4 +1,5 @@
-1.
-2.
-3.
-
+   Film : Home Alone ,
+	 Serial :  Desperate Housewives ,
+	 Food :  Spaghetti Bolognese ,
+	 Season :  Summer ,
+	 Country :  USA 
