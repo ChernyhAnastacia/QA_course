@@ -1,7 +1,0 @@
-   Title   :   There is no [Explore Web Platform] button in block [Trading simpler than it’s ever been] at the [Why Capital.com?] page in portrait orientation of the device when the screen width is less than 1023px   
-   Severity/Priority   :    Minor/Low   
-   Environment   :   iPad 10.2 OS 15.5 (Safari)2   ,
-   Steps to reproduce   :   Preconditions: Portrait orientation of device STR: 1. Navigate to capital.com; 2. Tap [Burger menu] 3. Tap menu section [About] 4. Tap menu item [Why Capital.com?] 5. Go to block       Trading simpler than it’s ever been   
-   Expected result   :    There is the [Explore Web Platform] button that is redirecting to the trading platform page   
-   Actual result   :   There is no the [Explore Web Platform] button that is redirecting to the trading platform page   
-   Attachments   :   video   
