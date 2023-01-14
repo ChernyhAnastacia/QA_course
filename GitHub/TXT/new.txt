@@ -1,6 +1,0 @@
-Name:Anastasia
-Surname:Chernyh
-Age:36
-Children: Evelina, Ulyana, Gleb
-Profession: QA engineer
-
